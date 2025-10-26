@@ -1,0 +1,26 @@
+.idea/
+.vscode
+.vs
+
+# Build results
+Jade.API/[Bb]in/
+Jade.API/[Oo]bj/
+Jade.API/[Rr]elease/
+# Build tests results
+tests/Jade.API.UnitTests/[Bb]in/
+tests/Jade.API.UnitTests/[Oo]bj/
+tests/Jade.API.FunctionalTests/[Bb]in/
+tests/Jade.API.FunctionalTests/[Oo]bj/
+tests/Jade.API.Services.Tests/[Bb]in/
+tests/Jade.API.Services.Tests/[Oo]bj/
+# publish file
+src/Jade.API/publish
+# Coverage reports
+# tests/Jade.API.UnitTests/coverage/
+# tests/Jade.API.FunctionalTests/coverage/
+# Coverage results
+# tests/Jade.API.UnitTests/lcov.info
+# tests/Jade.API.FunctionalTests/lcov.info
+# tests/Jade.API.UnitTests/cov.xml
+# tests/Jade.API.FunctionalTests/cov.xml
+Jade.API/JadeApi.csproj.user
